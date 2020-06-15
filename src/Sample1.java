@@ -1,4 +1,4 @@
 public class Sample1 {
 	
-	//Sample code changes
+	//Sample code in the master branch
 }
