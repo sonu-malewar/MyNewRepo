@@ -1,4 +1,8 @@
 public class Sample1 {
 	
-	//Sample code in the master branch
+	public static void main(String[] args) {
+	// code changes to master 
+	}
+	
+	
 }
