@@ -1,4 +1,9 @@
 public class Sample1 {
 	
-	//Sample code changes
+	//constructor code changes
+	
+	Sample1()
+	{
+		System.out.println("printing");
+	}
 }
