@@ -1,4 +1,9 @@
 public class Sample1 {
 	
-	//Sample code in the master branch
+	//constructor code changes
+	
+	Sample1()
+	{
+		System.out.println("printing");
+	}
 }
